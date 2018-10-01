@@ -4,7 +4,17 @@
 * [Burp Suite - from First Run to Website Hack in 60 min ](https://github.com/0NtgO/Owasp-Kyiv/blob/master/Owasp_Kiev_29.09.pdf)
 
 ## Labs
-### Docker Hub:
+## Description of laboratories 
+* Task 1 - Basic Login Form
+* Task 2 - HTTP Basic Authentication
+* Task 3 - Login Form with one time token
+* Task 4 - LFI
+* Task 5 - Reflected XSS
+* Task 6 - Reflected XSS with one time token
+* Task 7 - Stored XSS on another page
+* Task 8 - LFI + Automatic Logout every 5 seconds
+
+### Docker Hub
 * https://hub.docker.com/r/j0ns1k/owasp_kyiv_task_1/
 * https://hub.docker.com/r/j0ns1k/owasp_kyiv_task_2/
 * https://hub.docker.com/r/j0ns1k/owasp_kyiv_task_3/
@@ -13,7 +23,7 @@
 * https://hub.docker.com/r/j0ns1k/owasp_kyiv_task_6/
 * https://hub.docker.com/r/j0ns1k/owasp_kyiv_task_7/
 * https://hub.docker.com/r/j0ns1k/owasp_kyiv_task_8/
-### How to run: 
+### How to run
 * Install docker
 * docker pull j0ns1k/owasp_kyiv_task_1 (docker pull j0ns1k/owasp_kyiv_task_{1-8}) from 1 to 8
 * docker run -p 81:80 -td j0ns1k/owasp_kyiv_task_1 (docker run -p 8{1-8}:80 -td j0ns1k/owasp_kyiv_task_{1-8} ) 
@@ -27,13 +37,3 @@
 * http://173.212.213.238:86
 * http://173.212.213.238:88
 * http://173.212.213.238:89
-
-## Description 
-* Task 1 - Basic Login Form
-* Task 2 - HTTP Basic Authentication
-* Task 3 - Login Form with one time token
-* Task 4 - LFI
-* Task 5 - Reflected XSS
-* Task 6 - Reflected XSS with one time token
-* Task 7 - Stored XSS on another page
-* Task 8 - LFI + Automatic Logout every 5 seconds
