@@ -4,7 +4,7 @@
 * [Burp Suite - from First Run to Website Hack in 60 min ](https://github.com/0NtgO/Owasp-Kyiv/blob/master/Owasp_Kiev_29.09.pdf)
 
 ## Labs
-## Description of laboratories 
+## Description of tasks 
 * Task 1 - Basic Login Form
 * Task 2 - HTTP Basic Authentication
 * Task 3 - Login Form with one time token
