@@ -27,3 +27,13 @@
 * http://173.212.213.238:86
 * http://173.212.213.238:88
 * http://173.212.213.238:89
+
+## Description 
+* Task 1 - Basic Login Form
+* Task 2 - HTTP Basic Authentication
+* Task 3 - Login Form with one time token
+* Task 4 - LFI
+* Task 5 - Reflected XSS
+* Task 6 - Reflected XSS with one time token
+* Task 7 - Stored XSS on another page
+* Task 8 - LFI + Automatic Logout every 5 seconds
