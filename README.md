@@ -5,14 +5,18 @@
 
 ## Labs
 ## Description of tasks 
-* Task 1 - Basic Login Form
-* Task 2 - HTTP Basic Authentication
-* Task 3 - Login Form with one time token
-* Task 4 - LFI
-* Task 5 - Reflected XSS
-* Task 6 - Reflected XSS with one time token
-* Task 7 - Stored XSS on another page
-* Task 8 - LFI + Automatic Logout every 5 seconds
+* Task 1 - Basic Login Form <details><summary>What should be done</summary>1. Find valid username 
+  2.  Find valid password</details>
+* Task 2 - HTTP Basic Authentication <details><summary>What should be done</summary>Find vald username and password</details>
+* Task 3 - Login Form with one time token <details><summary>What should be done</summary>1. Find valid username 
+  2.  Find valid password</details>
+* Task 4 - LFI <details><summary>What should be done</summary>1. Find valid username 
+  2.  Find valid password 3. Exploit LFI with LFISuite</details>
+* Task 5 - Reflected XSS <details><summary>What should be done</summary>Exploit XSS with XSShunter</details>
+* Task 6 - Reflected XSS with one time token <details><summary>What should be done</summary>Exploit XSS with XSShunter</details>
+* Task 7 - Stored XSS on another page <<details><summary>What should be done</summary>Exploit XSS with XSShunter and create macros to open comment page</details>
+* Task 8 - LFI + Automatic Logout every 5 seconds <details><summary>What should be done</summary>1. Find valid username 
+  2.  Find valid password 3. Exploit LFI with LFISuite 4. Create macros to autologin</details>
 
 ### Docker Hub
 * https://hub.docker.com/r/j0ns1k/owasp_kyiv_task_1/
