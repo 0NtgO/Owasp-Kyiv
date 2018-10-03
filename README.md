@@ -14,7 +14,7 @@
   2.  Find valid password 3. Exploit LFI with LFISuite</details>
 * Task 5 - Reflected XSS <details><summary>What should be done</summary>Exploit XSS with XSShunter</details>
 * Task 6 - Reflected XSS with one time token <details><summary>What should be done</summary>Exploit XSS with XSShunter</details>
-* Task 7 - Stored XSS on another page <<details><summary>What should be done</summary>Exploit XSS with XSShunter and create macros to open comment page</details>
+* Task 7 - Stored XSS on another page <details><summary>What should be done</summary>Exploit XSS with XSShunter and create macros to open comment page</details>
 * Task 8 - LFI + Automatic Logout every 5 seconds <details><summary>What should be done</summary>1. Find valid username 
   2.  Find valid password 3. Exploit LFI with LFISuite 4. Create macros to autologin</details>
 
